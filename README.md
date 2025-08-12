@@ -1,53 +1,46 @@
-# 💻 Matheus Arizono
+#  Matheus Arizono
 
-**Trainee - Desenvolvedor de Sistemas | ERP | MySQL | Backend | Python | PHP | Git**
+**Trainee - Systems Developer | ERP | MySQL | Backend | Python | PHP | Git**
 
-Estudante de Engenharia de Computação no Centro Universitário Facens (6º semestre) | Estagiário na Chemyunion | Apaixonado por tecnologia com impacto social | Experiência em React, Node, Salesforce e projetos de acessibilidade
-
----
-
-## 🧠 Experiência
-
-### 🚗 Iniciação Científica – Rota 2030
-
-**Bolsista no projeto Rota 2030**, em parceria com Stellantis, ITA, Ford Motor e governo federal, colaborando com a Fundep. Desenvolvimento de soluções embarcadas utilizando visão computacional, sensores e IA para melhorar a segurança veicular, como redução de pontos cegos e otimização da percepção dos motoristas.
-
-**Principais atividades:**
-- Desenvolvimento de algoritmos em Python para garantir integridade e temporização na comunicação entre ECU e simulador.
-- Configuração da interface VECTOR VN1610 para testes HIL/SIL e leitura de dados via protocolo CAN.
-- Modelagem de cenários no simulador CARLA e transmissão de dados para análise.
-- Análise dos dados para validar desempenho e resultados.
-- Auxílio na documentação técnica e pesquisa aplicada em sistemas ADAS.
+Computer Engineering student at Centro Universitário Facens | Trainee in Systems Development at Metalac SPS (Precision Castparts Corp) | Experienced with Python, PHP, MySQL, DB2, ERP, C, C++, JavaScript, HTML, CSS, Linux, Git, Power BI, ROS, and Docker.
 
 ---
 
-## 🏆 Conquistas em Maratonas de Programação
+### 🚗 Scientific Initiation – Rota 2030
 
-Participei da Maratona de Programação da FACENS com Pedro Tejon e Cauê Henrique Ricardo, conquistando pódios por três anos seguidos:
+**Research fellow on the Rota 2030 project**, in partnership with Stellantis, ITA, Ford Motor, and the federal government, collaborating with Fundep. Development of embedded solutions using computer vision, sensors, and AI to improve vehicle safety, such as reducing blind spots and optimizing driver perception.
 
-- 🥇 1º lugar em 2023 (posição 259 na maratona regional nacional).
-- 🥉 3º lugar em 2024 (posição 390 na maratona nacional).
-- 🥈 2º lugar em 2025.
-
----
-
-## 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Main activities:**
+- Developing Python algorithms to ensure integrity and timing in communication between ECU and simulator.
+- Configuring the VECTOR VN1610 interface for HIL/SIL testing and data reading via CAN protocol.
+- Modeling scenarios in the CARLA simulator and transmitting data for analysis.
+- Analyzing data to validate performance and results.
+- Assisting in technical documentation and applied research on ADAS systems.
 
 ---
 
-![Contador de visitas](https://visitcount.itsvg.in/api?id=Arizon0&icon=2&color=12)
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius:50%; padding:5px; background:#306998;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="border-radius:50%; padding:5px; background:#777BB4;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius:50%; padding:5px; background:#4479A1;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius:50%; padding:5px; background:#00599C;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="border-radius:50%; padding:5px; background:#00599C;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius:50%; padding:5px; background:#F7DF1E;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="border-radius:50%; padding:5px; background:#E34F26;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="border-radius:50%; padding:5px; background:#1572B6;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="border-radius:50%; padding:5px; background:#F05033;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="border-radius:50%; padding:5px; background:#181717;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius:50%; padding:5px; background:#0db7ed;" />
+</p>
+
+---
+
+## 🏆 Programming Marathon Achievements
+
+I participated in FACENS Programming Marathon and Regional Marathon with Pedro Tejon and Cauê Henrique Ricardo, achieving podium finishes for three consecutive years:
+
+- 🥇 1st place in 2023 (259th position in the national regional marathon).  
+- 🥉 3rd place in 2024 (390th position in the national regional marathon).
+- 🥈 2nd place in 2025.
